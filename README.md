@@ -9,7 +9,7 @@ This entire project is highly inspired by [this repo](https://github.com/dxue201
 
 ### How to play
 
-1) Open any browser (Chrome prefered) and access the url down below.
+1) Open any browser (Chrome prefered) and access the demo website mentioned down below.
 2) Allow webcam and microphone access during the first time visit. (might need to refresh the page after allowing)
 3) Look at the video on the right. Try to make your face as similar as any cartoon faces in the video. The cartoon icons would disappear if the similarity is high enough.
 4) If the task image is not a cartoon icon (i.e. a real person's face...), you should shout at the microphone. The face would explode only if the sound is loud enough.
